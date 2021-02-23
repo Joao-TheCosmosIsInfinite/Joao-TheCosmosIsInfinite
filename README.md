@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Data Science at <a target="_blank" href="https://www.datascienceacademy.com.br/">Data Science Academy</a>
-- 👯 I’m looking to collaborate on ... Python, R
+- 👯 I’m looking to collaborate on ... Python, SQL
 - 🤔 I’m looking for help with ... AWS, GCP
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/ Him
