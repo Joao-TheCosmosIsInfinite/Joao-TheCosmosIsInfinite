@@ -1,7 +1,7 @@
 # João Paulo Ribeiro dos Santos
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:joao1615@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/joão-paulo-ribeiro-dos-santos-7716499b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/joao-paulo-ribeiro-dos-santos-7716499b)
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/15117023/joao-paulo-santos)
 
 ### Hello Everyone! Welcome to my profile
