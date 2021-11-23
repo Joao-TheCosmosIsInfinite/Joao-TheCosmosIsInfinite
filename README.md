@@ -7,7 +7,7 @@
 ### Hello Everyone! Welcome to my profile
 <p><img style='margin: 0 auto' src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/source.gif"></p>
 
-- 👨‍💻 I’m a System Analyst at <a target="_blank" href="https://www.targetsistemas.com.br/">Target Sistemas</a>
+- 👨‍💻 I’m a Data Analyst at <a target="_blank" href="https://www.platformbuilders.io/">Platform Builders</a>
 - 📚 I'm a Data Enthusiat
 - 📊 I Love everything about the universe of data analysis
 
@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... Data Science at <a target="_blank" href="https://www.datascienceacademy.com.br/">Data Science Academy</a>
+- 🌱 I’m currently learning ... Data Science and Analytics at <a target="_blank" href="https://mbauspesalq.com/cursos/gestao-de-negocios/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AA2SmWCTYaULesSNHxo26YRkgdv7FE5uQe8yg1WSLUcD25DcHJhIRoCVbwQAvD_BwE">Usp Esalq</a>
 - 👯 I’m looking to collaborate on ... Python, SQL
 - 🤔 I’m looking for help with ... AWS, GCP
 - 💬 Ask me about ... Anything
